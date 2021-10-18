@@ -1043,6 +1043,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 	background: #FEEDD8;
 	position: relative;
 	z-index: 1;
+	overflow:hidden;
 }
 .about-us-section .container {
 	display: flex;
