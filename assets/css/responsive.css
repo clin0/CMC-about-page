@@ -1,0 +1,440 @@
+@media (max-width: 1500px) {  }
+
+@media (min-width: 1200px) and (max-width: 1400px) { 
+    .header-info h2 {
+        font-size: 26px;
+    }
+    .header-info h4 {
+        font-size: 20px;
+    }
+    .header-right h4 {
+        font-size: 20px;
+    }
+
+
+}
+
+@media (max-width: 1399px) {
+    .about-us-section .text-side h3 {
+        font-size: 38px;
+    }
+    .about-us-section .text-side p {
+        font-size: 16px;
+        margin-top: 57px;
+    }
+    .about-tab-nav li a {
+        font-size: 20px;
+    }
+    .about-tab-nav li {
+        margin-bottom: 34px;
+    }
+    .about-tab-content .single-tab .title h3 {
+        font-size: 34px;
+        margin-bottom: 25px;
+    }
+    .about-tab-content .single-tab {
+        font-size: 16px;
+    }
+    .about-tab-content-wrap {
+        padding: 70px 0px 100px 90px;
+    }
+    .about-tab-content .single-tab .main-part {
+        padding-left: 25px;
+        border-left: 6px solid #FEB761;
+    }
+    .about-tab-content .single-tab .main-part p {
+        margin-bottom: 20px;
+    }
+    .about-tab-content .single-tab .main-part ul li {
+        padding-left: 20px;
+    }
+    .about-tab-nav-wrap {
+        padding: 80px 60px 105px 0px;
+    }
+    .about-us-section .img-side::after {
+        height: 470px;
+        width: 340px;
+    }
+}
+
+
+
+@media (max-width: 1199px) {  
+    .header-info h2 {
+        font-size: 20px;
+    }
+    .header-info h4 {
+        font-size: 17px;
+    }
+    .logo-area a h5 {
+        font-size: 17px;
+        margin-left: 12px;
+    }
+    .header-right h4 {
+        font-size: 16px;
+    }
+    .header-right h4 span {
+        top: -4px;
+    }
+    .header-right h4 span img {
+        max-width: 20px;
+    }
+    .about-us-section .text-side h3 {
+        font-size: 28px;
+    }
+    .about-us-section .text-side h3 {
+        font-size: 24px;
+    }
+    .about-us-section .text-side p {
+        margin-top: 37px;
+    }
+    .about-us-section .img-side::after {
+        height: 420px;
+        width: 310px;
+    }
+    .about-tab-content .single-tab .main-part {
+        padding-right: 0px;
+    }
+    .header-info h4.mt-more {
+        margin-top: 50px;
+    }
+    .code-check {
+        padding-top: 180px;
+    }
+    .check-code-page .main-wrapper {
+        min-height: 660px;
+    }
+}
+
+@media (max-width: 991px) {  
+    .header-area {
+        padding: 18px 0px;
+    }
+    .footer-right p {
+        font-size: 16px;
+    }
+    .footer-left a {
+        font-size: 16px;
+    }
+    .footer-center h5 {
+        font-size: 16px;
+    }
+    .regi-prefield .single-input-box {
+        margin-bottom: 24px;
+    }
+    .select-box {
+        margin-bottom: 66px;
+    }
+    .regi-prefield .single-input-box {
+        margin-bottom: 40px;
+    }
+    .regi-prefield .form-btn {
+        margin-top: 0px;
+    }
+    .single-succsess.scucess-half {
+        padding: 50px 40px 50px 40px;
+    }
+    .invite-wrap {
+        padding: 37px 150px 60px 125px;
+    }
+    .select-box {
+        margin-bottom: 40px;
+    }
+
+    .about-tab-section .container {
+        flex-wrap: wrap;
+    }
+    .about-tab-nav-wrap {
+        padding: 50px 0px 40px 0px;
+        width: 100%;
+    }
+    .about-tab-nav {
+        flex-direction: row;
+    }
+    .about-tab-nav li {
+        margin-bottom: 10px;
+        margin-right: 20px;
+    }
+    .about-tab-nav li a {
+        font-size: 17px;
+    }
+
+    .about-tab-nav-wrap {
+        position: relative;
+        z-index: 1;
+    }
+    .about-tab-nav-wrap::before {
+        content: '';
+        height: 100%;
+        width: 1000px;
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 50%;
+        transform: translateX(50%);
+        background: #F0F2F3;
+        z-index: -1;
+    }
+    .about-tab-section .container::before {
+        display: none;
+    }
+    .about-tab-content .single-tab .title {
+        border-bottom: 6px solid #FEB761;
+        margin-bottom: 25px;
+    }
+    .about-tab-content .single-tab .title h3 {
+        font-size: 28px;
+        margin-bottom: 17px;
+    }
+    .about-tab-content .single-tab .main-part {
+        padding-left: 0px;
+        border-left: none;
+    }
+    .about-tab-content-wrap {
+        padding: 40px 0px 100px 0px;
+    }
+    .about-us-section .img-side::after {
+        height: 350px;
+        width: 270px;
+    }
+    .about-us-section .img-side::after {
+        top: -106px;
+    }
+    .header-info h4.mt-more {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 767px) {  
+    .footer-left a {
+        font-size: 12px;
+    }
+    .reg-1 {
+        padding-top: 150px;
+    }
+    .regi-box-1 {
+        padding: 30px 40px 40px 40px;
+    }
+    .footer-right p {
+        font-size: 12px;
+    }
+    .footer-center h5 {
+        font-size: 12px;
+    }
+    .footer-area {
+        padding: 16px 0px;
+    }
+    .main-wrapper {
+        padding-bottom: 40px;
+        min-height: 600px;
+    }
+
+
+    .site-btn {
+        padding: 13px 17px;
+        font-size: 16px;
+    }
+    .regi-prefield {
+        padding: 32px 45px 45px 45px;
+        max-width: 664px;
+    }
+    .reg-page-2 {
+        padding-top: 140px;
+    }
+    .regi-prefield .box-title {
+        margin-bottom: 30px;
+    }
+    .single-succsess p {
+        font-size: 16px;
+    }
+    .single-succsess.scucess-half {
+        padding: 30px 20px 30px 20px;
+    }
+    .single-succsess button {
+        font-size: 14px;
+    }
+    .single-succsess h6 {
+        font-size: 15px;
+    }
+    .single-succsess h4 {
+        font-size: 18px;
+    }
+    .add-abs-btn {
+        top: inherit;
+        bottom: 27px;
+    }
+    .select-box {
+        margin-bottom: 40px;
+    }
+
+    .about-us-section .container {
+        align-items: center;
+        flex-direction: column;
+    }
+    .about-us-section .img-side {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        order: -2;
+    }
+    .about-us-section .text-side {
+        width: 100%;
+        padding-top: 50px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-us-section .img-side::after {
+        height: 100%;
+        width: 80%;
+    }
+    .about-us-section .img-side::after {
+        top: -100px;
+    }
+    .header-info h4.mt-more {
+        margin-top: 20px;
+    }
+    .check-code-page .main-wrapper {
+    }
+}
+
+@media (max-width: 575px) {  
+    .regi-prefield {
+        padding: 32px 28px 35px 28px;
+        max-width: 664px;
+    } 
+    .reg-group-1 .regi-prefield {
+        padding: 32px 28px 18px 28px;
+    }
+    .trash-btn img {
+        max-width: 16px;
+    }
+    .trash-btn {
+        left: calc(100% + 4px);
+    }
+    .form-wrapper .accordion .accordion-item .accordion-collapse .accordion-body {
+        padding: 10px 15px 26px 15px;
+    }
+    .pay-page-content {
+        padding: 20px 28px 31px 28px;
+        max-width: 664px;
+    }
+    .pay-page {
+        padding-top: 175px;
+    }
+    .single-succsess {
+        padding: 30px 15px 30px 15px;
+    }
+    .single-succsess p{
+        font-size: 14px;
+    }
+    .single-succsess p br{
+        display: none;
+        font-size: 14px;
+    }
+    .reg-conform-single {
+        padding-top: 150px;
+    }
+    .invite-wrap {
+        padding: 30px 40px 40px 40px;
+    }
+    .delete-btn {
+        left: calc(100% + 6px);
+    }
+    .count-no {
+        font-size: 13px;
+        right: calc(100% + 8px);
+        top: 0px;
+    }
+    .add-abs-btn {
+        top: inherit;
+        bottom: 27px;
+        position: inherit;
+        left: 13px;
+        margin-top: 13px;
+    }
+    .invite-wrap .box-title {
+        margin-bottom: 32px;
+    }
+    .invite-wrapper {
+        padding-top: 150px;
+    }
+    .reg-group-1 .regi-prefield.all-collaps {
+        padding: 32px 30px 40px 30px;
+    }
+    .select-box {
+        margin-bottom: 40px;
+    }
+    .about-us-section .text-side h3 {
+        font-size: 20px;
+    }
+    .about-us-section .text-side p {
+        margin-top: 30px;
+        line-height: 1.8;
+    }
+    .about-us-section {
+        padding: 60px 0 62px;
+    }
+    .about-tab-content .single-tab .title h3 {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+    .about-us-section .img-side::after {
+        height: 100%;
+        width: 80%;
+        top: -60px;
+    }
+}
+
+@media (max-width: 475px) {  
+    .logo-area a img {
+        max-width: 35px;
+    } 
+    .logo-area a h5 {
+        font-size: 14px;
+        margin-left: 6px;
+    }
+    .header-right h4 {
+        font-size: 11px;
+    }
+    .header-info h2 {
+        font-size: 19px;
+    }
+    .header-info h4 {
+        font-size: 15px;
+    }
+
+    .pay-page-content {
+        padding: 20px 20px 31px 20px;
+    }
+    .scucess-half {
+        width: 100%;
+    }
+    .about-us-section .text-side h3 {
+        font-size: 18px;
+    }
+    .about-us-section .text-side h3 span {
+        padding: 0px 6px;
+    }
+    .about-us-section {
+        padding: 40px 0 62px;
+    }
+    .about-us-section .img-side::after {
+        height: 100%;
+        width: 80%;
+        top: -40px;
+        right: initial;
+        left: 30%;
+    }
+    .code-check-box {
+        padding: 30px 25px 40px 25px;
+    }
+
+}
+
+
+
+
+
+
